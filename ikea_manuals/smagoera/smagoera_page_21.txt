@@ -1,0 +1,15 @@
+smagoera page 21. The image is a page from an IKEA assembly instruction manual. It includes several diagrams and symbols to guide the assembly of a piece of furniture:
+
+1. The top left corner features a QR code and the IKEA website link.
+2. The top right corner shows a diagram of a wall anchor and screw, indicating the need to secure the furniture to a wall.
+3. The middle section contains three sets of illustrations, each showing steps to assemble parts of the furniture:
+   - The first set shows a screw being inserted into a hole with measurements provided (8 mm and 5/16").
+   - The second set shows a screwdriver being used to drive a screw into a piece of wood.
+   - The third set shows a wrench tightening a bolt.
+4. The bottom section includes warning symbols and diagrams:
+   - A crossed-out water droplet, indicating the item should not be exposed to water.
+   - A hand pressing down on the furniture, suggesting stability testing or securing the item.
+   - A bookshelf (or similar furniture) with an arrow pointing upwards, indicating the correct upright position.
+   - Symbols indicating to keep the item dry, handle with care, and a reminder to recycle the packaging.
+
+Each step and warning is clearly numbered or marked to assist with the assembly process.

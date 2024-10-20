@@ -1,0 +1,7 @@
+tuffing page 16. The images depict instructional diagrams for assembling parts of an object.
+
+1. Image 13 shows the assembly of a cylindrical component into a slot on a larger part. The diagram includes an inset showing a screw being inserted into the cylindrical component, which is labeled with a "+" and "-" sign, indicating the orientation of batteries inside it. Arrows indicate the direction to insert and secure the component. There are also crossed-out symbols suggesting not to twist or bend the parts excessively.
+
+2. Image 14 illustrates the assembly of a box-like structure with a display on top. The structure is shown in a dashed outline, indicating the final assembled position. There are arrows showing the movement to place the top part onto the lower structure. The diagram also includes a detail of a latch or locking mechanism, suggesting securing the top part to the base.
+
+These diagrams are typical in instruction manuals, providing visual steps to guide the assembly of parts for a product.

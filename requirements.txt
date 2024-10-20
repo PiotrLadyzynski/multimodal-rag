@@ -1,0 +1,11 @@
+llama-index-llms-openai
+llama-index-multi-modal-llms-openai
+llama-index-vector-stores-qdrant
+llama-index
+qdrant_client
+matplotlib
+pyMuPDF
+tools
+frontend
+wheel
+git+https://github.com/openai/CLIP.git

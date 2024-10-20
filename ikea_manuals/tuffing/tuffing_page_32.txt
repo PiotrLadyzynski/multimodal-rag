@@ -1,0 +1,11 @@
+tuffing page 32. The image is an instruction page from an assembly manual, showing step 31 in the assembly process. It includes a series of diagrams illustrating how to attach parts together:
+
+1. At the top, there is a long, narrow item labeled with a reference number, and a note indicating "2x," suggesting that two of these items are needed.
+2. Below, there is a sequence of four images showing the detailed steps to attach components:
+   - The first image shows a hand positioning a metal bracket onto the edge of a panel.
+   - The second image shows a hand screwing a bolt through the bracket into the panel.
+   - The third image shows the bolt being tightened with a tool.
+   - The fourth image shows a hand pressing down on the bracket to ensure it is securely attached.
+3. The main diagram beneath these steps shows an elongated structure made of several panels connected by the brackets, indicating the assembly progress.
+
+The images are designed to guide the user through the assembly process with visual step-by-step instructions.
