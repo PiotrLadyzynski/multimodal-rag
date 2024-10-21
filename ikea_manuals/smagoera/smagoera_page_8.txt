@@ -1,16 +1,3 @@
-smagoera page 8. The image displays two sets of assembly instructions, each within a dashed border, indicating different steps or parts for assembly.
+smagoera page 8. Alternative text for IKEA assembly instruction image:
 
-1. The top section shows various hardware components:
-   - Two pieces of a bracket-like part.
-   - Four hexagonal nuts.
-   - Four bolts with a rounded head.
-   - Eight bolts with a flat head.
-   - Four small L-shaped brackets.
-
-2. The bottom section illustrates:
-   - One L-shaped metal bracket.
-   - Two large bolts with a rounded head and washer.
-   - Four smaller bolts with a rounded head.
-   - Two cylindrical metal spacers.
-
-Each component is labeled with a quantity, indicating how many of each item are required for the assembly step. The layout is clear and organized, designed for instructional use, likely in a manual for assembling furniture or equipment.
+The image displays step 2 of an IKEA furniture assembly instruction. It is divided into two sections, each outlined with a dashed line. The top section contains various hardware components required for assembly: two cylindrical nuts, four screws, four wooden dowels, eight cam locks, and four angle brackets. Each component is labeled with the quantity needed: "2x" for the nuts, "4x" for the screws, dowels, and angle brackets, and "8x" for the cam locks. The bottom section shows a metal bracket with two holes at one end and a curved shape at the other. Beside the bracket are depicted two screws, four wooden dowels, and two cylindrical nuts, each labeled with the quantity "2x" for the screws and nuts, and "4x" for the dowels. This section illustrates the hardware placement relative to the bracket for assembly.

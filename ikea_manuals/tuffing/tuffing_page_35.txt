@@ -1,7 +1,9 @@
-tuffing page 35. The images depict assembly instructions for a piece of furniture, likely a bunk bed with storage compartments.
+tuffing page 35. **Alternative Text for Multimodal RAG System: IKEA Assembly Instruction Images**
 
-1. The first image (labeled as step 35) shows an illustration of the bunk bed frame with multiple components already assembled. The focus is on the attachment of 14 screws, indicated by arrows, to secure parts of the frame and shelving. A small inset image shows a screw and a tool, likely an Allen wrench, used for this step.
+**Image 1: Step 35**
+The image depicts step 35 in the assembly of a bunk bed, possibly the Tuffing model. It shows an isometric view of the partially assembled metal frame of the bunk bed. The frame includes the top and bottom bunk structures with side railings and ladder rungs. The illustration highlights the attachment of 14 screws at various connection points on the frame, using a screwdriver. The screws are shown in a small inset circle, indicating the type and quantity needed for this step.
 
-2. The second image (labeled as step 36) continues from the previous step, showing the bunk bed with further progress in assembly. This step highlights the attachment of two additional components, as indicated by arrows pointing to the specific attachment points on the bed. A small inset illustration shows a hand holding a tool, possibly a screwdriver or Allen wrench, tightening a bolt or screw.
+**Image 2: Step 36**
+The image illustrates step 36 in the assembly process. It continues with the same bunk bed frame, focusing on securing additional components. A hand is shown using a small hammer to tap in two dowels into holes located at the upper corners of the bed frame, ensuring the stability and alignment of the structure. The dowels are displayed in a small inset circle, specifying the quantity and type required.
 
-These images are part of a manual, providing visual guidance on how to assemble the furniture step-by-step.
+These descriptions should enable the system to answer questions about the appearance of the Tuffing bunk bed, the parts included in the assembly, and specific assembly steps such as step 4.

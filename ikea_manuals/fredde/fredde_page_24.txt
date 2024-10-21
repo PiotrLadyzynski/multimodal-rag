@@ -1,7 +1,11 @@
-fredde page 24. The image is an assembly instruction manual page for furniture, specifically a bench with a backrest and a side storage unit. The page is labeled with the number "30" at the top and includes three separate diagrams:
+fredde page 24. Alternative text for IKEA assembly instruction image:
 
-1. The first diagram at the top shows the attachment of a horizontal bar to a vertical panel using two screws, indicated by arrows pointing downwards.
-2. The second diagram in the middle displays the attachment of another horizontal bar parallel to the first one, also using screws, with arrows showing the direction of assembly.
-3. The third diagram at the bottom illustrates the completed bench with a backrest and a side storage unit, showing the overall design and structure.
+This image is part of the assembly instructions for a piece of IKEA furniture. It is divided into three sections, each depicting a different step in the assembly process, marked by large numbers in the corners to indicate the sequence.
 
-Each diagram includes clear arrows and fittings to guide the assembly process, and the page number "24" is visible at the bottom right corner.
+1. The top section of the image, labeled "30," shows two identical components, each resembling a side rail or support beam. The illustration indicates that two screws should be inserted into pre-drilled holes on each component, with arrows pointing to the exact insertion points.
+
+2. The middle section continues with step 30, showing the same components now being attached to a larger flat piece, likely a part of the main frame. Arrows show the direction in which the components should be aligned and screwed into the frame.
+
+3. The bottom section of the image depicts a nearly complete structure of what appears to be a bed frame, specifically the Tuffing model. This shows the components from the previous steps assembled together with additional parts, forming a sturdy frame with a backrest and a base.
+
+This image is designed to guide the assembler through the specific steps of attaching side rails or support beams to the main frame of the Tuffing bed, using screws and following the indicated directions for proper alignment.

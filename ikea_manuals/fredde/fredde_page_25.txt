@@ -1,9 +1,5 @@
-fredde page 25. The image contains three separate illustrations related to assembling a piece of furniture, possibly a bench with a shelf.
+fredde page 25. Alternative text for the image from IKEA assembly instruction:
 
-1. The top section shows two long, narrow objects. The left object is depicted as a straight rod, while the right object is a similar rod but crossed out with an "X," indicating incorrect usage or orientation. A hand is shown holding the correct rod.
+"This image illustrates step 31 in the assembly instructions for a piece of IKEA furniture. The top part of the image shows two long metal rods, one depicted as correct with a check mark, and the other as incorrect with an X mark and a warning symbol indicating not to twist. Below, there is a detailed inset showing a close-up of a screw being inserted into a hole on a metal bracket, with directional arrows indicating the proper insertion method. The main part of the image features a nearly complete metal bunk bed frame with a lower bunk and side safety rails. The frame is shown with an arrow pointing downwards, indicating the placement of the upper bunk or another component onto the frame." 
 
-2. The middle section is labeled with the number "31" and shows a detailed inset. This inset illustrates the correct insertion of a component (a screw or peg) into a hole on the side of another part, emphasizing the correct orientation with a directional arrow.
-
-3. The bottom section features a line drawing of a partially assembled bench. The bench has a backrest and a lower shelf. An arrow indicates the placement of the backrest onto the lower structure, suggesting the next step in the assembly process.
-
-Overall, the image serves as an instructional guide for assembling a specific piece of furniture, focusing on the correct handling and orientation of parts.
+This description helps in understanding the specific step and the correct method of assembling the furniture, as well as identifying the type of furniture being assembled (a metal bunk bed).

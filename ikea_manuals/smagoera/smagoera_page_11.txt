@@ -1,11 +1,7 @@
-smagoera page 11. The image contains assembly instructions for furniture, presented in two steps labeled as "2" and "3".
+smagoera page 11. Alternative text for IKEA assembly instruction images for a multimodal RAG system:
 
-Step 2:
-- Shows two long, narrow panels with multiple pre-drilled holes.
-- An inset illustration details the attachment of a circular connector to the edge of one panel using a screwdriver. Four screws are indicated to be used for this step.
+Image 1: "Step 2 of assembling a piece of furniture shows three long, narrow panels, each with multiple pre-drilled holes. An inset image illustrates the attachment of a circular connector piece to the panels using four screws, with a hand using a screwdriver. The number '4x' indicates that four screws are used."
 
-Step 3:
-- Depicts two separate panels, each with pre-drilled holes.
-- An inset illustration again shows the attachment of a circular connector to the edge of one panel, with four screws required for the assembly.
+Image 2: "Step 3 of assembling a piece of furniture displays two flat rectangular panels and two narrow support bars. An inset image shows the attachment of similar circular connector pieces to the panels and bars using four screws, with a hand using a screwdriver. The number '4x' again indicates the use of four screws."
 
-Each step uses clear line drawings to illustrate the assembly process, with arrows and parts clearly marked to guide the assembly.
+These descriptions provide clear information about the steps involved in assembling the furniture, including the types of panels and hardware used, and the actions required.

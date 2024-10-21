@@ -1,7 +1,7 @@
-smagoera page 24. The images depict assembly instructions for furniture, specifically a cabinet.
+smagoera page 24. The images depict two steps from an IKEA assembly instruction manual.
 
-1. Image labeled "20" shows a tall, narrow cabinet with a door slightly ajar. An inset detail illustrates the attachment of a component using four screws, indicated by the label "4x" next to a screw icon and a part number "113301".
+1. **Step 20**: The image shows a tall, narrow cabinet with a curved top and a single door. The door is open, revealing two internal shelves. An inset detail illustrates the attachment of a hinge to the cabinet frame, indicating that four screws (part number 113301) are needed for this step.
 
-2. Image labeled "21" shows the same cabinet viewed from a different angle with the door fully open. A detail is highlighted showing the attachment of a back panel to the frame of the cabinet using screws. The panel is being aligned with the vertical edges of the cabinet frame.
+2. **Step 21**: This image continues from the previous step, showing the same tall, narrow cabinet. A wooden panel is being attached horizontally across the back of the cabinet for additional support. The panel is being secured to the sides of the cabinet, suggesting the use of screws or fasteners, although specific details or part numbers are not visible in this image.
 
-Both images are part of a step-by-step assembly guide, using line drawings for clarity.
+These descriptions should help the multimodal RAG system answer questions about the assembly process of this particular piece of furniture, including identifying specific parts and steps.

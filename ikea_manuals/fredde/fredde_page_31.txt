@@ -1,5 +1,7 @@
-fredde page 31. The images depict assembly instructions for a piece of furniture, possibly a bench or a table with shelves.
+fredde page 31. Alternative text for the provided IKEA assembly instruction images:
 
-1. Image 39: Shows the furniture from a side angle. The main structure is already assembled, and the focus is on attaching a back panel. An arrow indicates the direction in which the back panel should be slid into place. There are four screws depicted, suggesting that these should be used to secure the panel, with a screwdriver illustrated to indicate the tool needed for this step.
+Image 1 (Step 39): This image shows the assembly of a bunk bed frame, specifically focusing on securing the upper bunk's safety rail. The illustration depicts the rail being attached to the bed frame using four screws, as indicated by the "4x" symbol next to a screwdriver and screw. The components are shown in a line drawing format, emphasizing the placement of the screws along the top edge of the safety rail.
 
-2. Image 40: This image provides a perspective view of the same furniture. It highlights the placement of two additional elements, possibly shelves or trays, which are to be inserted into the lower part of the furniture. Arrows show the direction in which these elements should be slid into place. The focus is on ensuring these components are properly aligned and secured.
+Image 2 (Step 40): This image continues with the bunk bed assembly, focusing on securing a ladder to the frame. The illustration shows the ladder being attached at two points, each secured with a bolt and nut, as indicated by the "2x" symbol next to a wrench and bolt. The image provides a close-up view of the bolt and nut assembly, highlighting the insertion of the bolt through the ladder and frame, and the tightening of the nut.
+
+These descriptions should help the multimodal RAG system answer questions about the appearance of the "Tuffing" bunk bed, the parts included in the "Freda" (if it were depicted), and specific assembly steps such as step 4 of assembling the "Tuffing".

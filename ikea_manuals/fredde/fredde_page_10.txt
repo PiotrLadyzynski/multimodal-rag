@@ -1,12 +1,7 @@
-fredde page 10. The images depict assembly instructions for a piece of furniture, likely a bed frame or similar structure.
+fredde page 10. Alternative text for IKEA assembly instruction images for a multimodal RAG system:
 
-1. Step 10 shows the assembly of a metal frame:
-   - The first image in this step shows a hand using a tool to tighten a bolt on a joint of the metal frame.
-   - The second image highlights the insertion of a bolt through aligned holes in the frame parts, with an arrow indicating the direction of insertion.
-   - The third image shows a close-up of a bolt and nut being tightened, with a tool applied to the bolt.
+Image 1: Step 10 of assembling a furniture item. The image shows a metal frame with two elongated side parts. An individual is depicted attaching a curved metal bar to the side parts using a hex key. Two close-up insets show the correct orientation of the screws and the placement of the hex key on the screw.
 
-2. Step 11 illustrates the installation of cylindrical parts (possibly legs or supports) into the frame:
-   - The first image shows two cylindrical parts, each with a detailed view of a screw being inserted into a threaded hole.
-   - The second image depicts these cylindrical parts being attached to the underside of the frame, with an indication to repeat the action twice (as shown by the "x2" label).
+Image 2: Step 11 of assembling a furniture item. The image illustrates the attachment of cylindrical parts to the base of the metal frame. Two identical cylindrical parts with a screw mechanism are shown being inserted into holes at the base of the frame. The action is repeated twice as indicated by the number "2x" next to the cylindrical parts. The entire frame is visible with all parts connected, suggesting the nearing completion of the assembly process.
 
-Each step uses clear, simple line drawings to demonstrate the assembly process, with additional details like arrows and tools to guide the assembly.
+These descriptions should help the system answer questions about the appearance of the "Tuffing" and the assembly steps involved, as well as identify the parts included in the "Freda" if similar images are used for its assembly instructions.

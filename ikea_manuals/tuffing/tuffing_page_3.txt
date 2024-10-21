@@ -1,14 +1,3 @@
-tuffing page 3. The image appears to be an instruction manual page, likely for assembling a piece of furniture or equipment. It includes several illustrations and annotations:
+tuffing page 3. Alternative text for IKEA assembly instruction image:
 
-1. The top section of the image displays various hardware components, each labeled with quantities:
-   - Screws and bolts of different lengths and types, each group labeled with quantities such as 28x, 2x, 3x, 1x.
-   - Metal dowels and small cylindrical objects, also with quantities like 28x and 4x.
-   - Allen keys and a small wrench, labeled 1x and 2x respectively.
-
-2. The middle section shows a long, flat object, possibly a rail or shelf, labeled with dimensions (2420 mm).
-
-3. The bottom section of the image contains a step-by-step assembly illustration:
-   - It shows a hand using an Allen key to screw a bolt into a cylindrical object.
-   - The components being assembled include bolts and cylindrical sleeves, with a clear indication of the assembly direction and a prohibition symbol against using power tools, emphasizing manual assembly.
-
-Overall, the image is designed to provide clear, visual assembly instructions with specific focus on the hardware and tools required for the task.
+The image displays various components and hardware required for assembling a piece of furniture, labeled with quantities. The parts include: 28 long screws, 28 cylindrical nuts, 28 washers, 2 short screws, 3 medium-length screws, 2 very short screws, and 1 unique screw. Additionally, there are 4 round, flat pieces, 1 curved metal piece, 2 L-shaped metal brackets, and 2 long, flat metal bars. The bottom section of the image illustrates step 3 of the assembly process, showing a hand using a screwdriver to tighten a screw into a cylindrical nut, with a clear emphasis on not overtightening, as indicated by a crossed-out wrench icon. This detailed depiction helps in identifying the specific hardware and tools involved in this step of the assembly.

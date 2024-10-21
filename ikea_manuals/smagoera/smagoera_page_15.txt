@@ -1,7 +1,7 @@
-smagoera page 15. The images depict assembly instructions for a piece of furniture, likely a storage box or a small cabinet.
+smagoera page 15. Alternative text for the provided IKEA assembly instruction images:
 
-1. Image labeled "10" shows the initial steps of assembling the top part of the furniture. It illustrates a flat rectangular panel being aligned horizontally above two side panels that are standing vertically. An arrow indicates that the top panel should be placed down onto the side panels.
+Image 1 (Step 10): Illustration shows the assembly of a furniture piece, possibly a bed or a storage unit. The image depicts a large flat panel with multiple pre-drilled holes, positioned horizontally above two side panels with vertical orientation. An arrow indicates the placement of the horizontal panel onto the side panels, suggesting the alignment and attachment at this stage of assembly.
 
-2. Image labeled "11" shows the next step where the top panel has been placed onto the side panels, creating a closed top for the structure. An arrow points downward, indicating the placement of the top panel onto the side panels to secure them together.
+Image 2 (Step 11): The next step in the assembly process shows the previously mentioned structure with the horizontal panel now placed on top of the vertical side panels. An arrow directs downward pressure to secure the top panel onto the side panels, indicating the final positioning or additional securing of this assembly stage.
 
-Both images are clear and use simple line drawings to demonstrate the assembly process, with arrows to guide the direction of assembly.
+These descriptions should help the multimodal RAG system answer questions about the appearance of specific IKEA products and the components involved in their assembly, such as identifying steps in the assembly process of a model named "Tuffing" or detailing the parts included in a model named "Freda".

@@ -1,7 +1,7 @@
-smagoera page 26. The images depict assembly instructions for furniture, specifically a cabinet.
+smagoera page 26. The image depicts two steps, numbered 23 and 24, from an IKEA assembly instruction manual for a piece of furniture.
 
-1. Image 23: Shows a tall, narrow cabinet with a single door. The door is open, revealing the interior structure which includes a top shelf and a bottom shelf. An illustration inset shows a close-up of a hinge being attached to the door with screws, indicating the step involves securing the door to the cabinet frame.
+Step 23: The image shows a tall, narrow cabinet with a single door and a shelf inside. The focus is on the top right corner of the cabinet where a hinge is being attached to the door. A close-up inset shows a screwdriver securing a screw into the hinge, with a note indicating that two screws should be used.
 
-2. Image 24: Continues from the previous step, showing the same cabinet with the door slightly ajar. An arrow points downward, indicating the door should be closed. A separate inset illustration shows a close-up of a lock mechanism on the door, with an arrow demonstrating the insertion of the key into the lock, suggesting this step involves securing the door with a lock.
+Step 24: This step continues with the hinge installation. The main image shows the same cabinet, focusing on the top right corner. An arrow points from the hinge on the door to the cabinet's frame, indicating the attachment of the hinge to the frame. A close-up inset illustrates how the hinge should be positioned on the frame, with a downward arrow indicating the motion for securing the hinge. The inset also notes the use of two screws for this part of the assembly.
 
-Both images include labels and numerical steps (23 and 24) to guide the assembly process, and each step is marked with the number of times an action should be repeated (e.g., "2x" for attaching the hinges twice).
+These images are designed to guide the user through the process of attaching hinges to the cabinet door and securing them to the main frame of the cabinet.

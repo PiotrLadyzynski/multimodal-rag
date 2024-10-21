@@ -1,7 +1,7 @@
-smagoera page 13. The image contains two sets of assembly instructions labeled as steps 6 and 7.
+smagoera page 13. Alternative text for the provided IKEA assembly instruction images:
 
-Step 6: Shows two rectangular panels, each with pre-drilled holes along the edges. There are also two circular objects, each with four holes, and a hardware piece resembling a screw or bolt. An arrow indicates the attachment of the hardware to the circular objects, which are then to be attached to the panels.
+Image 1: "Step 6 of assembling a piece of furniture shows two rectangular panels, each with pre-drilled holes and metal fixtures attached. There are two circular diagrams indicating the insertion of four screws into the metal fixtures to secure the panels together."
 
-Step 7: Similar to step 6, this step shows two rectangular panels with pre-drilled holes. There are ten circular objects and corresponding hardware pieces. An arrow indicates the attachment of the hardware to the circular objects, which are then to be attached to the panels.
+Image 2: "Step 7 of the assembly process displays the same two rectangular panels from the previous step. This image includes a circular diagram showing the insertion of ten screws into various pre-drilled holes on the metal fixtures to further secure the structure of the panels."
 
-Each step is illustrated with clear, exploded views to show where each component fits relative to the others.
+These descriptions are designed to help the multimodal RAG system answer questions about the assembly steps and details of the furniture components.

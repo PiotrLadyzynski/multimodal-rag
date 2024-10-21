@@ -1,12 +1,9 @@
-fredde page 15. The image is an instructional diagram for assembling a piece of furniture, likely a bed frame or similar structure. It consists of several panels:
+fredde page 15. Alternative text for the IKEA assembly instruction image:
 
-1. The top panel shows an isometric view of a partially assembled metal frame with various components labeled, including screws and tools.
+This image displays a series of illustrations from an IKEA assembly manual. The top section of the image features an overview diagram of a partially assembled bed frame, indicating the focus of the assembly steps. The diagram includes annotations pointing to specific components and assembly details, such as screws and brackets.
 
-2. The middle panel is divided into three steps:
-   - Step 1 shows a close-up of a metal beam with holes.
-   - Step 2 depicts a hand positioning a bolt through the aligned holes of two metal parts.
-   - Step 3 illustrates the securing of the bolt with a nut.
+Below the overview, there are three smaller images arranged sequentially from left to right, labeled as steps 1, 2, and 3. Step 1 shows a close-up of a wooden beam with a metal bracket being positioned at the end. Step 2 illustrates a hand securing the bracket with a screwdriver. Step 3 depicts the insertion of a dowel into a pre-drilled hole in the beam.
 
-3. The bottom panel, labeled "18", shows the metal frame with a focus on the attachment of a support beam. It includes detailed steps for inserting a bolt through the support beam into the frame, securing it with a nut, and tightening it with a wrench. The instruction indicates to repeat the process for another part of the frame.
+The bottom section of the image presents step 18, featuring the same bed frame with a focus on the attachment of a leg. It shows a detailed view of a screwdriver tightening a bolt through a metal bracket that connects the leg to the frame. The instruction specifies using two bolts for this step, as indicated by the label "2x" next to the bolts.
 
-Each step includes graphical representations of the tools and hardware needed, such as a wrench and bolts, enhancing clarity for assembly.
+This image is designed to guide the assembler through specific steps in constructing a piece of furniture, with clear visual cues and minimal textual instructions.

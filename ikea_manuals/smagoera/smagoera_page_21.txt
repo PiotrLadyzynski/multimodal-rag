@@ -1,15 +1,13 @@
-smagoera page 21. The image is a page from an IKEA assembly instruction manual. It includes several diagrams and symbols to guide the assembly of a piece of furniture:
+smagoera page 21. **Alternative Text for IKEA Assembly Instruction Image:**
 
-1. The top left corner features a QR code and the IKEA website link.
-2. The top right corner shows a diagram of a wall anchor and screw, indicating the need to secure the furniture to a wall.
-3. The middle section contains three sets of illustrations, each showing steps to assemble parts of the furniture:
-   - The first set shows a screw being inserted into a hole with measurements provided (8 mm and 5/16").
-   - The second set shows a screwdriver being used to drive a screw into a piece of wood.
-   - The third set shows a wrench tightening a bolt.
-4. The bottom section includes warning symbols and diagrams:
-   - A crossed-out water droplet, indicating the item should not be exposed to water.
-   - A hand pressing down on the furniture, suggesting stability testing or securing the item.
-   - A bookshelf (or similar furniture) with an arrow pointing upwards, indicating the correct upright position.
-   - Symbols indicating to keep the item dry, handle with care, and a reminder to recycle the packaging.
+This image is a page from an IKEA assembly instruction manual, specifically page 21, featuring multiple diagrams related to the assembly of a piece of furniture. The page is divided into several sections, each marked with a large number in the corner to denote different steps in the assembly process.
 
-Each step and warning is clearly numbered or marked to assist with the assembly process.
+1. **Top left corner (Step 17):** This section shows a detailed illustration of a screw being tightened into a hole with a screwdriver. The diagram emphasizes the correct orientation and tool to use. A QR code and the IKEA website link are also present in this section.
+
+2. **Top right corner:** This section contains two diagrams. The first diagram shows a top-down view of a screw being inserted into a hole, indicating the depth it should be inserted to with a measurement of 6 mm. The second diagram is a side view of a wooden panel with a line drawn across it, suggesting a measurement or alignment guide.
+
+3. **Middle section:** This section is divided into three sub-sections, each depicting the assembly of a bolt and washer with a tool. Each sub-section is labeled with numbers 1, 2, and 3, showing the sequential steps of fitting the washer, placing the bolt, and tightening it with a wrench. The bolts and tools are shown in different orientations to give a clear view of the assembly process.
+
+4. **Bottom section:** This section features warning and caution symbols alongside text boxes. It shows crossed-out images of a hand screwing without support, indicating improper methods or safety warnings. Adjacent are symbols suggesting the correct way to support the piece during assembly to avoid damage or injury.
+
+This image is designed to provide clear, step-by-step visual instructions for assembling a specific IKEA product, ensuring proper and safe assembly practices.

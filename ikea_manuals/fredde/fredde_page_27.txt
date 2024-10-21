@@ -1,7 +1,7 @@
-fredde page 27. The image contains two assembly instruction diagrams labeled as steps 33 and 34.
+fredde page 27. Alternative text for the provided IKEA assembly instruction images:
 
-Step 33 shows a diagram of a partially assembled furniture piece, resembling a bench with a shelf and a backrest. An arrow indicates the placement of the backrest onto the frame of the bench. A zoomed-in circle highlights how a component should be slotted into another.
+Image 1: "Step 33 of assembling a furniture item shows an illustration of a bunk bed frame. A hand is depicted inserting a long, flat metal piece into the upper side of the frame. An inset close-up shows the metal piece being secured into a slot on the frame."
 
-Step 34 depicts the same furniture piece with the backrest now attached. There is a zoomed-in circle showing a screw being inserted into a hole, with a notation indicating that eight screws are needed for this step.
+Image 2: "Step 34 of assembling a furniture item features the bunk bed frame with all major components assembled. The focus is on the attachment of eight screws, as indicated by the number '8x' and an arrow pointing to the screws being tightened into the frame. The screws are used to secure the joints of the frame."
 
-The diagrams are clear and use simple line drawings to illustrate the assembly process, typical of furniture instruction manuals.
+These descriptions should help the multimodal RAG system answer questions about the appearance of the "Tuffing" bunk bed, the parts included in the "Freda" (if it were depicted), and specifically about step 4 of assembling the "Tuffing" if it corresponds to one of these steps.

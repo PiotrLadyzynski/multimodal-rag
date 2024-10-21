@@ -1,15 +1,17 @@
-tuffing page 2. The image consists of a series of instructional illustrations, likely from a furniture assembly manual:
+tuffing page 2. Alternative text for the IKEA assembly instruction image:
 
-1. The first panel shows a figure pointing to a screwdriver, indicating it is the required tool. A speech bubble with a screwdriver icon and a check mark confirms this.
+The image consists of six panels, each depicting different steps in assembling a piece of furniture, with large numbers in the corners indicating the sequence of steps.
 
-2. The second panel depicts two figures. One figure is incorrectly using a hammer on the furniture, marked by an "X" to show this is not the correct method. The other figure is correctly using a screwdriver.
+1. The first panel (Step 1) shows a figure standing next to an unassembled furniture frame, holding a tool (screwdriver). A warning symbol indicates not to use a drill.
 
-3. The third panel shows a figure using a hammer on the furniture, with a large "X" over the image, indicating that this method is incorrect.
+2. The second panel (Step 2) depicts two figures. One figure is holding a crossbar incorrectly, marked by a large "X" to indicate a mistake, while the other figure watches.
 
-4. The fourth panel shows the figure correctly using a screwdriver to assemble the furniture, with a check mark indicating this is the correct method.
+3. The third panel (Step 3) shows the same two figures now correctly assembling the crossbars onto the frame, without the "X" mark.
 
-5. The fifth panel shows a figure puzzled by an incorrectly assembled piece of furniture, with parts misaligned and a question mark above their head.
+4. The fourth panel (Step 4) features a single figure tightening screws on the assembled frame using a hand tool, with a specific focus on the screw connections.
 
-6. The final panel shows the figure holding a manual from IKEA, suggesting they are consulting the instructions to resolve the assembly issue.
+5. The fifth panel (Step 5) shows a figure puzzled by an incorrect assembly, with a question mark above their head, indicating confusion or a problem.
 
-These illustrations are designed to guide the user through the correct steps and tools for assembling furniture, emphasizing the use of a screwdriver over a hammer.
+6. The sixth panel (Step 6) shows a figure calling IKEA customer service for help, holding a piece of the furniture and a phone, with the IKEA logo visible on the phone screen.
+
+This image is designed to guide the assembly of a piece of furniture, showing both correct and incorrect methods, and offers a resource for help in the final panel.

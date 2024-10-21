@@ -1,5 +1,7 @@
-smagoera page 14. The images depict assembly instructions for a piece of furniture, likely a shelf or a similar structure.
+smagoera page 14. Alternative text for the provided IKEA assembly instruction images:
 
-1. Image 8 shows two components: a flat base and a vertical panel. The vertical panel is being inserted into slots on the flat base, indicated by downward arrows, suggesting the motion of placing the panel into the base.
+Image 1: "Step 8 of assembling furniture shows two vertical panels being attached to a horizontal base panel. Each vertical panel has multiple pre-drilled holes and is aligned perpendicularly to the base panel. Arrows indicate the downward placement of the vertical panels onto the base."
 
-2. Image 9 continues from the previous step, showing the vertical panel now secured upright on the flat base. There is an inset image showing a screw and a tool, likely indicating that five screws are to be used to secure the panel to the base using the tool shown.
+Image 2: "Step 9 of assembling furniture illustrates the attachment of a single vertical panel to a horizontal base panel, similar to the previous step. The focus is on the fastening mechanism, showing a close-up of a bolt and a locking nut being combined. The number '5x' next to these hardware pieces suggests that five sets of these are required for this step."
+
+These descriptions should help the multimodal RAG system answer questions about the assembly steps and the appearance of parts in the instructions.

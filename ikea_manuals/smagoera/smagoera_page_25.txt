@@ -1,9 +1,7 @@
-smagoera page 25. The image consists of three separate illustrations related to assembly or installation instructions:
+smagoera page 25. **Alternative Text for IKEA Assembly Instruction Images:**
 
-1. The top left illustration shows a warning sign indicating that a hearing protection device should be worn. Next to it, there is an image of a wall-mounted cabinet with a mirror. The mirror has a scribble on it, possibly indicating it is broken or has a defect.
+1. **Image 1 (Step 1)**: The image shows a warning icon indicating the need for two people to assemble the furniture. It also depicts a piece of furniture resembling a wardrobe with a mirror on its door, placed against a wall. A hand is shown drawing a line with a pencil on the wall, suggesting the marking of the position for the furniture.
 
-2. The top right illustration depicts a person's arm reaching towards a cabinet or shelf. There is a large "X" over the image, suggesting that this action is incorrect or should be avoided.
+2. **Image 2 (Step 22)**: This image illustrates step 22 in the assembly of a tall, narrow cabinet or wardrobe. The structure is shown upright with its door open, revealing multiple shelves inside. A close-up inset shows a hand using a screwdriver to secure a bracket with four screws into the side of the cabinet, indicating reinforcement or attachment of internal components.
 
-3. The bottom illustration shows a tall, empty cabinet frame with an open door. There is a detailed inset circle showing a screw being inserted into a hole on the cabinet, with a note indicating to repeat this action four times.
-
-These images are likely from an instruction manual for assembling or installing a cabinet, emphasizing safety precautions and correct assembly methods.
+These descriptions should help the multimodal RAG system answer questions about the appearance of the "Tuffing" and the parts included in the "Freda," as well as detailing step 4 of assembling the "Tuffing" if it corresponds to one of these steps.

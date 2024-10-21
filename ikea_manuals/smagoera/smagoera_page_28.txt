@@ -1,7 +1,7 @@
-smagoera page 28. The images provided are assembly instruction diagrams for furniture or equipment.
+smagoera page 28. Alternative text for the provided IKEA assembly instruction images:
 
-1. Image 26: This diagram shows the assembly of a flat piece with multiple holes, onto which six screws are being inserted. The screws are being tightened into embedded nuts within the flat piece. The diagram uses arrows to indicate the placement and direction of the screws, and a tool is depicted being used to tighten these screws.
+Image 1 (Step 26): Illustration shows a flat, rectangular panel with multiple pre-drilled holes. Above the panel, there are screws and a tool depicted, indicating the attachment of these screws into the panel. The number "6x" suggests that six screws are to be used in this step.
 
-2. Image 27: This diagram illustrates the assembly of a tall cabinet or wardrobe. Two doors are shown being attached to the main body of the cabinet. Arrows indicate the movement or placement direction of the doors towards the cabinet. Below this, a detailed view shows the mechanism of the door hinges being attached to the cabinet, with six screws being used to secure the hinges, as indicated by arrows and a tool for screwing.
+Image 2 (Step 27): This image displays two vertical, narrow panels, resembling the sides of a cabinet or wardrobe. Arrows indicate the movement of these panels towards each other, suggesting they are to be aligned or connected. Close-up insets show the detailed mechanism of screws being tightened into a hinge or bracket, also marked with "6x" to denote the number of screws involved.
 
-Both images are clear, using exploded views to detail the parts and assembly process, and are typically found in instruction manuals for self-assembly furniture.
+These descriptions should help the multimodal RAG system answer questions about the appearance of specific furniture items and the parts involved in their assembly, as well as detailed steps like step 4 of assembling the Tuffing, if it were depicted.

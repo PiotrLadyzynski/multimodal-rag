@@ -1,9 +1,5 @@
-tuffing page 13. The image is an assembly instruction page for a piece of furniture, possibly a shelving unit or a table. It shows a series of diagrams illustrating the step-by-step assembly process:
+tuffing page 13. Alternative text for the IKEA assembly instruction image:
 
-1. The top diagram displays the fully assembled unit, which appears to be a metal frame shelving unit with two shelves. There is a small wrench icon indicating tools needed for assembly.
+"This image displays step 6 of assembling a piece of IKEA furniture, possibly a bunk bed named Tuffing. The top part of the image shows an almost complete lower frame of the bunk bed with four vertical posts attached to a horizontal frame. The frame is depicted without the mattress. An arrow points to the insertion of a dowel into one of the frame's holes, indicating the next step in the assembly process. Below, there are detailed illustrations showing the attachment of a horizontal support beam to the vertical posts. Number labels 1, 2, and 3 are placed next to the corresponding components and actions, indicating the sequence of assembly steps: inserting a screw into a pre-drilled hole in the vertical post (step 1), securing the beam with a screw (step 2), and a close-up of a screw being tightened with a tool (step 3)."
 
-2. The middle diagram shows the initial assembly of the frame, focusing on the attachment of long vertical poles to horizontal supports. Numbers next to arrows point to the sequence of assembly steps, starting from the bottom.
-
-3. The bottom diagram provides a close-up view of a screw being tightened into a joint, emphasizing the specific action needed to secure the components together.
-
-Each step is clearly numbered to guide the assembler through the process. The page number "13" at the bottom right suggests this is part of a larger instruction booklet.
+This description should help the multimodal RAG system answer questions about the appearance of the Tuffing, the parts included in the assembly, and specific assembly steps like step 4.

@@ -1,5 +1,7 @@
-fredde page 18. The images depict assembly instructions for a piece of furniture or equipment.
+fredde page 18. Alternative text for the provided IKEA assembly instruction images:
 
-1. Image 23: This image shows an exploded view of a component being attached to a frame with two screws. The screws are indicated by arrows pointing to their respective holes on the frame. The component appears to be a handle or bracket.
+Image 1: Step 23 of the assembly instructions shows the attachment of a metal bracket to a wooden frame using two screws. The bracket is being secured to the side of the frame, which has multiple pre-drilled holes. A screwdriver is depicted in the process of tightening the screws.
 
-2. Image 24: This image illustrates the application of adhesive or sealant from a tube to the joints of the assembled frame. The tube is labeled with a "4x" multiplier, suggesting that the adhesive should be applied at four points or in four steps. The frame is shown in a completed state with all parts joined together.
+Image 2: Step 24 of the assembly instructions illustrates the application of a locking mechanism to the assembled frame. The locking mechanism is being inserted into a pre-fitted hole at the corner of the frame. The image highlights the action of turning the locking mechanism clockwise, as indicated by a curved arrow around the mechanism.
+
+These descriptions should help the multimodal RAG system answer questions about the appearance of specific furniture items and the components involved in their assembly, as well as detailing specific steps such as step 4 in assembling the Tuffing, if it were depicted in similar images.

@@ -1,14 +1,7 @@
-fredde page 5. The image contains assembly instructions for a mechanical component, presented in a step-by-step format:
+fredde page 5. Alternative text for the provided IKEA assembly instruction images:
 
-1. Step 2:
-   - The first sub-image shows a hand inserting a cylindrical object into a rectangular block with a circular hole.
-   - The second sub-image illustrates the cylindrical object fully inserted into the hole of the rectangular block, with an arrow indicating the insertion direction.
+Image 1: "Step 2 of assembling a piece of furniture shows a close-up of a wooden beam with a pre-drilled hole. A metal dowel is being inserted into the hole, indicated by an arrow. The image includes an inset showing a hand using a tool to tighten the dowel. The tool and dowel are highlighted with a '1x' label, suggesting one piece of each is required."
 
-2. The next part of Step 2:
-   - A hand is shown using a tool to tighten a bolt on the side of the rectangular block, securing the cylindrical object inside.
-   - A crossed-out image advises against using a different tool or method, emphasizing the correct tool to use.
+Image 2: "Step 3 of the assembly process depicts a wooden beam with a metal dowel partially inserted. An arrow indicates the direction to fully insert the dowel into the beam. A curved black arrow shows the motion for a separate component, a curved metal bracket, being attached to the end of the beam with a screw and a tool."
 
-3. Step 3:
-   - A depiction of the rectangular block with the cylindrical object now secured. A hand is shown pulling a lever attached to the block, indicated by a directional arrow showing the movement of the lever.
-
-These images are likely from a manual, guiding the user through the correct assembly of a mechanical system, emphasizing the use of specific tools and methods for proper installation.
+These descriptions provide a clear step-by-step visual guide for assembling parts of a piece of furniture, focusing on the insertion of dowels and the attachment of brackets.

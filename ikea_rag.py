@@ -70,7 +70,7 @@ from llama_index.core import SimpleDirectoryReader
 
 
 openai_mm_llm = OpenAIMultiModal(
-    model="gpt-4-turbo", max_new_tokens=300
+    model="gpt-4-turbo", max_new_tokens=1300
 )
 
 from llama_index.core.schema import ImageDocument
@@ -112,7 +112,7 @@ for pdf_file in pdfs:
         image_documents = [ImageDocument(image_path=image_path) for image_path in image_urls]
 
         response = openai_mm_llm.complete(
-            prompt=f"Describe the images as an alternative text",
+            prompt=f"Describe the images from IKEA assembly instruction as an alternative text for multimodal RAG system. Large numbers in the corners of the pictures denotes steps of assembling the furninture so include this information in the text description. By your descriptions the system shoul be able to answer follwoing questions: What does the Tuffing look like?, What parts are included in the Freda?, What is step 4 of assembling the Tuffing?. Parts are always depicted on the page with many screws and elements. ",
             image_documents=image_documents,
         )
 
@@ -125,5 +125,5 @@ for pdf_file in pdfs:
     pdf_document.close()
 
 
-
+#prompt=f"Describe the images from IKEA assembly instruction as an alternative text for multimodal RAG system. Large numbers in the corners of the pictures denotes steps of assembling the furninture so include this information in the text description. By your descriptions the system shoul be able to answer follwoing questions: What does the Tuffing look like?, What parts are included in the Freda?, What is step 4 of assembling the Tuffing?. Parts are always depicted on the page with many screws and elements. "
 

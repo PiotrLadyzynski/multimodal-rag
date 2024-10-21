@@ -1,7 +1,7 @@
-tuffing page 15. The image contains two instructional diagrams labeled as steps 11 and 12, likely from an assembly manual.
+tuffing page 15. Alternative text for the provided IKEA assembly instruction images:
 
-Step 11 shows the assembly of a hinge mechanism. It includes three components: two vertical, rectangular parts and one smaller, cylindrical part. Arrows indicate the insertion of the cylindrical part into holes in the rectangular parts. There is also a depiction of a screwdriver, suggesting the use of screws for assembly.
+Image 1: Step 11 of the assembly instructions shows two vertical wooden panels with pre-drilled holes. There is a detailed inset image indicating the insertion of a metal screw into a hole on one of the panels. The diagram includes arrows pointing to specific holes where the screws should be inserted, and a screwdriver is depicted as the tool required for this step.
 
-Step 12 illustrates the attachment of two elongated, flat pieces with a hinge. An arrow shows the motion of folding one piece over the other along the hinge.
+Image 2: Step 12 of the assembly instructions depicts a long, flat wooden piece being attached to another flat piece with a curved edge. The image shows a hand pressing down on the pieces to snap or slide them together, indicated by a curved arrow. The focus is on the joining mechanism of the two pieces.
 
-The diagrams are clear and use simple line drawings to convey the assembly steps, with numbers and arrows to guide the process.
+These descriptions should help the multimodal RAG system answer questions about the appearance of specific furniture items and the components involved in their assembly.

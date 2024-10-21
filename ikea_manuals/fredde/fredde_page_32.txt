@@ -1,7 +1,7 @@
-fredde page 32. The image displays two assembly instruction steps for furniture.
+fredde page 32. Alternative text for the provided IKEA assembly instruction images:
 
-Step 41 shows the assembly of a bench. The image includes a bench with a backrest and armrests. There are arrows indicating the placement of screws and a tool, likely an Allen wrench, used for assembly. The diagram also shows two circular parts, possibly washers or caps, to be placed on the bench, with a quantity indicator "2x" next to them.
+Image 1 (Step 41): This image shows the assembly of a bench-like furniture piece. The illustration depicts the furniture from a side angle, focusing on the attachment of the backrest. Tools required include a wrench and a hammer, which are shown at the top left corner. The image also includes a detailed inset showing the insertion of two screws into pre-drilled holes on the backrest, indicating the use of two screws for this step.
 
-Step 42 illustrates the attachment of a shelf to the bench. The diagram shows a cloud-like shape indicating where to insert four screws (indicated by "4x") into pre-drilled holes on the shelf to secure it to the frame of the bench.
+Image 2 (Step 42): This image illustrates the next step in the assembly process, focusing on securing a component to the main structure of the furniture. It shows the use of four screws to attach a horizontal board to the frame. The screws are depicted as being tightened with a screwdriver, which is shown aligning with the screws. The furniture is shown from a front perspective to emphasize the placement of the board.
 
-Both steps are part of a detailed assembly manual, likely for a piece of outdoor or garden furniture. The page number "32" and some reference codes are visible at the bottom of the image.
+These descriptions should help the multimodal RAG system answer questions about the appearance of the furniture, the parts included in the assembly, and specific assembly steps.

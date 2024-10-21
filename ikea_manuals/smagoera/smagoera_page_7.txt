@@ -1,14 +1,11 @@
-smagoera page 7. The images depict a series of illustrations related to furniture assembly, likely from an instruction manual.
+smagoera page 7. **Alternative Text for IKEA Assembly Instruction Images:**
 
-1. The first row shows two images:
-   - The left image has a red "X" over a depiction of a bird sitting on unassembled furniture pieces, indicating not to place items on the furniture before it is fully assembled.
-   - The right image shows the bird now standing next to the correctly assembled furniture, suggesting the correct procedure.
+1. **Top-left image (no step number)**: Illustration showing an incorrect assembly method for a piece of furniture, with a cross mark indicating not to proceed this way. It depicts a person trying to assemble two beams at an incorrect angle.
 
-2. The second row also contains two images:
-   - The left image shows a person looking confused while holding a piece of furniture and a manual, with a question mark above their head, indicating uncertainty about the assembly.
-   - The right image shows the same person now talking on the phone, with an "IKEA" logo on the wall, suggesting they are seeking help from IKEA customer service.
+2. **Top-right image (no step number)**: Illustration showing the correct method of assembling the same beams, with a check mark indicating the right way to proceed. The person is using a tool to correctly join the beams at a right angle.
 
-3. The third row features a detailed parts list for furniture assembly:
-   - It includes various screws and fasteners, each labeled with quantities: 14 bolts, 14 nuts, 8 small dowels, 8 large dowels, and 4 wooden pieces. The layout is organized and labeled clearly for user guidance in assembly.
+3. **Middle image (no step number)**: A confused person holding a piece of furniture and a manual, with a question mark above their head, indicating uncertainty about the assembly process.
 
-These images are typical in furniture assembly manuals, providing visual instructions and help information to assist users in correctly assembling their furniture.
+4. **Bottom image (Step 1)**: Detailed illustration of various hardware parts needed for assembly. It includes 14 bolts, 14 nuts, 14 washers, 8 small screws, 8 dowels, and 4 wooden pegs. Each part is clearly labeled with quantities.
+
+These descriptions should help the multimodal RAG system answer questions about the appearance of specific IKEA products like the Tuffing, the parts included in the Freda, and specific assembly steps such as step 4 for the Tuffing.

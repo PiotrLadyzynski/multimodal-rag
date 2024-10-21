@@ -1,7 +1,7 @@
-tuffing page 34. The images depict assembly instructions for a piece of furniture, likely a bunk bed with storage compartments.
+tuffing page 34. **Alternative Text for IKEA Assembly Instruction Images:**
 
-1. Image 33: This image shows an exploded view of the upper part of the bunk bed, focusing on the assembly of a specific component. It illustrates the insertion of 14 screws into pre-drilled holes on a panel, which is part of the bed's frame.
+Image 1: Step 33 of the assembly instructions shows a detailed view of the upper corner of a metal bunk bed frame, specifically focusing on the attachment of a circular component. The inset highlights the insertion of 14 screws into pre-drilled holes to secure this part of the frame. The overall image depicts the bunk bed with a metal ladder and safety rails on the top bunk.
 
-2. Image 34: This image continues from the previous step, showing the entire bunk bed with an arrow indicating the placement of the previously assembled panel into the top section of the bed frame. The bed features a ladder on one side and storage shelves under the lower bunk.
+Image 2: Step 34 of the assembly instructions depicts the same metal bunk bed. This step focuses on the placement of a flat metal piece that serves as a support or barrier, being inserted horizontally into the frame of the top bunk. An arrow indicates the direction in which the piece should be slid into place, fitting into the frame's side rails.
 
-Both images are designed to guide the user through the assembly process, using clear, numbered steps and detailed illustrations to ensure correct assembly.
+These descriptions should help the multimodal RAG system answer questions about the appearance of the Tuffing bunk bed, the parts included in the assembly, and specific steps such as step 4 of assembling the Tuffing.

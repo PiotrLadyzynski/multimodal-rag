@@ -1,7 +1,7 @@
-fredde page 17. The images depict two steps from an assembly instruction manual for a piece of furniture or equipment.
+fredde page 17. Alternative text for IKEA assembly instruction images:
 
-1. Image 21 shows the assembly of a slatted base into a frame. An arrow indicates the motion of placing two spherical objects (possibly screws or caps) into the frame. The number "2x" suggests that this action should be repeated twice.
+Image 1: "Step 21 of assembling a piece of furniture shows a diagram of a partially assembled bed frame. The image illustrates the attachment of a slatted bed base to the frame using two screws. An arrow indicates the direction to secure the slats onto the frame."
 
-2. Image 22 illustrates the attachment of a cylindrical component (possibly a bolt) with a washer and a nut. The diagram shows the bolt being inserted through a hole in the frame and secured with the nut. The number "5x" indicates that this step should be repeated five times.
+Image 2: "Step 22 of the furniture assembly features a close-up diagram of a screw and a locking nut. The instructions indicate to use five sets of these components. Below this, the image shows the bed frame with arrows pointing to the locations where the screws and nuts should be installed to secure parts of the frame together."
 
-Both images use simple line drawings and symbols to clearly communicate the assembly steps, and are typical of furniture assembly guides.
+These descriptions should help the multimodal RAG system answer questions about the appearance of the Tuffing bed frame, the parts included in the Freda (if similar parts are used), and specific assembly steps such as step 4 of assembling the Tuffing.

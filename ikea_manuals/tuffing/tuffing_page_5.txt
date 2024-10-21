@@ -1,9 +1,3 @@
-tuffing page 5. The image is an instructional page from an assembly manual, showing the steps to assemble a piece of furniture, possibly a crib or a bed with side rails. The illustrations are in black and white and depict various stages of the assembly process:
+tuffing page 5. Alternative text for the IKEA assembly instruction image:
 
-1. The top left image shows the initial structure of the bed, focusing on the attachment of side panels to the frame.
-2. The top right image illustrates the attachment of a safety rail to the top of the side panels.
-3. The middle left image highlights the insertion of additional panels or slats at the base of the bed.
-4. The middle right image shows a close-up of a hand securing a component with a screwdriver.
-5. The bottom image indicates the direction to slide or lock another part into place, emphasizing the movement with an arrow.
-
-Each step is marked with arrows or hands to guide the assembler on where and how to perform each action. The page number "5" and the step number "13" are visible, suggesting this is part of a larger assembly guide.
+The image displays step-by-step instructions for assembling a piece of furniture, specifically a bunk bed named Tuffing. In the top left corner, step 13 is indicated by a large number. The image shows a nearly complete bunk bed frame with a focus on securing the ladder. Two hands are depicted in the process of attaching the ladder to the frame using screws and a screwdriver. The bottom part of the image emphasizes the correct orientation of the ladder, indicating that it should be attached from the inside of the bed frame, with arrows pointing outward to ensure proper alignment and stability.

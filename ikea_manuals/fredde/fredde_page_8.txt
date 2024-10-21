@@ -1,7 +1,7 @@
-fredde page 8. The image contains two sets of assembly instructions, labeled as steps 7 and 8.
+fredde page 8. Alternative text for the provided IKEA assembly instruction images:
 
-Step 7: Illustrates a person assembling a frame structure. The person is shown attaching horizontal bars to vertical supports, using a tool, likely a wrench or screwdriver.
+Image 1: "Step 7 of assembling the Tuffing shows an illustration of a person attaching long, horizontal metal bars to a pair of parallel metal frames. The person is using a tool to secure the bars, which are likely the side supports of a bed frame."
 
-Step 8: Depicts the detailed process of securing parts of the frame with bolts. Two close-up diagrams show a bolt being inserted through aligned holes and tightened with a tool, with an emphasis on the action required (indicated by an arrow) to secure the bolt.
+Image 2: "Step 8 of assembling the Tuffing depicts the attachment of additional bars to the previously assembled metal frame. The main image shows the insertion of a long, thin metal rod through loops or brackets on the frame. Below, two detailed insets illustrate the securing of this rod with a screw and a nut, using a screwdriver and a wrench."
 
-Each step is clearly numbered and includes detailed illustrations to guide the assembly process.
+These descriptions should help the multimodal RAG system answer questions about the appearance of the Tuffing and the specific assembly steps involved.

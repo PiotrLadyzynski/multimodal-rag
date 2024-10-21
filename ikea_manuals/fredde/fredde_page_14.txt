@@ -1,7 +1,7 @@
-fredde page 14. The image contains two instructional illustrations for assembling furniture:
+fredde page 14. Alternative text for the provided IKEA assembly instruction images:
 
-1. In the top illustration (labeled "16"), there are two line drawings of a person in two different positions, both interacting with a rectangular frame structure. The person is shown adjusting or assembling parts of the frame, possibly tightening or fitting components together.
+Image 1: "Step 16 - A line drawing depicts a person assembling a bed frame. The individual is shown in two positions: bending over the frame and adjusting the side rails. The bed frame appears to be a simple, metal structure with four legs and side rails."
 
-2. The bottom illustration (labeled "17") shows a close-up view of hands using a screwdriver to secure a bolt into a hole on a part of the frame. The illustration indicates that two bolts should be used in this step, as denoted by "2x" next to the screwdriver and bolt.
+Image 2: "Step 17 - A close-up illustration focuses on the assembly of a screw mechanism. A hand is shown using a screwdriver to tighten a bolt through a circular fitting that connects two parts of the bed frame. The image indicates that this action should be repeated twice."
 
-Both illustrations are typical of assembly instruction manuals, using simple line drawings to guide the user through the assembly process.
+These descriptions are designed to help a multimodal RAG system answer questions about the appearance of the "Tuffing" bed frame, the parts included in a hypothetical "Freda" item, and the specific actions involved in step 4 of assembling the "Tuffing."

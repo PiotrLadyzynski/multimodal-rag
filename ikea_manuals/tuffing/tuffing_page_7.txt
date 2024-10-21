@@ -1,9 +1,7 @@
-tuffing page 7. The image is a page from an assembly instruction manual, showing diagrams for assembling a piece of furniture or equipment. It includes the following elements:
+tuffing page 7. Alternative text for IKEA assembly instruction image:
 
-1. The top section of the page, labeled with the number "1", shows two types of screws or bolts, each depicted with a side view and a front view. The screws are differentiated by their lengths and thread styles.
+"This image is part of the assembly instructions for an IKEA product. In the top section of the image, labeled as step 1, there are illustrations of various hardware components such as screws and a dowel. A hand is shown using a screwdriver to tighten a screw into a cylindrical object, indicating the initial assembly steps. Scissors are depicted cutting open a package of screws, suggesting the preparation of materials.
 
-2. The middle section, labeled with the number "2", illustrates the attachment of a part using a bolt and a nut. The diagram shows a hand using a tool to tighten the nut onto the bolt, which is passing through two components to secure them together. There is a warning symbol indicating not to overtighten, with a crossed-out wrench.
+The lower section of the image, labeled as step 3, shows a schematic of a metal frame being assembled. The frame consists of several elongated metal parts connected by screws. Detailed insets highlight the attachment of screws at specific junctions of the frame, with a total of four screws being used. Tools like a screwdriver and a wrench are shown in use, emphasizing the need for these tools in the assembly process. Arrows indicate the direction and points of attachment for assembling the frame components."
 
-3. The bottom section, labeled with the number "3", depicts the assembly of a frame structure. It shows various components being connected by bolts. The diagram includes insets with magnified views of the connections, indicating the insertion of bolts and the placement of nuts. Symbols suggest repeating certain actions twice and provide guidance on the orientation of the components.
-
-Overall, the image serves as a step-by-step visual guide for assembling a mechanical structure, emphasizing the correct use of hardware and tools to ensure proper assembly.
+This description should help the multimodal RAG system answer questions about the appearance of the product and the parts included in the assembly process, as well as specific steps such as step 4 when queried.

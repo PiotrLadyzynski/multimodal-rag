@@ -1,7 +1,7 @@
-tuffing page 28. The images depict assembly instructions for a piece of furniture, likely a desk or a storage unit.
+tuffing page 28. **Alternative Text for IKEA Assembly Instruction Images:**
 
-1. The first image (labeled as step 26) shows an illustration of the furniture with two drawers partially pulled out. There are annotations indicating the use of a screwdriver to secure screws at specific points on the drawers and the main frame. A small inset illustration shows a hand using a screwdriver to tighten a screw.
+Image 1: Step 26 in the assembly instructions shows a partially assembled metal bunk bed frame, identified as the Tuffing. The image depicts the addition of a safety rail on the upper bunk. The illustration includes an inset showing the attachment of the rail using two screws (100049) and a tool, likely an Allen wrench. The instruction indicates to repeat the process on the opposite side, as denoted by "2x."
 
-2. The second image (labeled as step 27) continues from the previous step, focusing on securing another part of the furniture. It shows the same furniture with a hand using a screwdriver to tighten screws at the back of the unit. The annotation indicates the action to be repeated twice.
+Image 2: Step 27 continues with the assembly of the Tuffing bunk bed. This step focuses on securing the ladder to the frame of the bunk bed. The image shows the ladder being attached at two points, each secured with a bolt (100017) and a nut (100006). The inset provides a close-up view of the bolt and nut assembly, emphasizing the use of a wrench to tighten the connection. The instruction also indicates to repeat the bolt and nut attachment on the other side of the ladder, marked by "2x."
 
-Both images are clear, detailed line drawings, typical of furniture assembly manuals, designed to guide the assembler through the process with visual and minimal textual instructions.
+These descriptions should enable the multimodal RAG system to answer questions about the appearance of the Tuffing, the parts included in the assembly, and specific assembly steps such as step 4.

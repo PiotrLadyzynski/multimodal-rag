@@ -1,7 +1,7 @@
-smagoera page 12. The images depict assembly instructions for furniture in an exploded view format.
+smagoera page 12. Alternative text for the provided IKEA assembly instruction images:
 
-1. The first image (labeled as step 4) shows the assembly of a flat rectangular panel with another similar panel. It includes the insertion of screws (four screws, as indicated by "4x") through pre-drilled holes in one panel into the edge of the other panel, using a screwdriver.
+Image 1: "Step 4 of assembling a piece of furniture shows an isometric illustration of two rectangular panels, one lying flat and the other upright. A metal rod is depicted being inserted into pre-drilled holes on the upright panel. An inset detail shows a screw being fastened into the rod with a screwdriver, indicating this action should be repeated four times."
 
-2. The second image (labeled as step 5) illustrates the assembly of two flat rectangular panels, each having metal brackets attached to their edges. The brackets are designed to align and presumably connect with each other or with another part of the furniture.
+Image 2: "Step 5 of assembling a piece of furniture displays two rectangular panels, both lying flat. Each panel has a metal bracket attached to one end, and the brackets are aligned parallel to each other."
 
-Both images are clear and use simple line drawings to show the parts and tools involved in the assembly process.
+This description should help the multimodal RAG system answer questions about the appearance of specific furniture items, the parts included in a set, and detailed steps of assembly.

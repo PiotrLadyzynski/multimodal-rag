@@ -1,5 +1,7 @@
-tuffing page 10. The images depict assembly instructions for a piece of furniture or equipment.
+tuffing page 10. Alternative text for the provided IKEA assembly instruction images:
 
-1. The first image (labeled "6") shows a detailed illustration of how to attach two parts using screws. It includes an inset showing a close-up of a screw being tightened with a screwdriver, and a warning symbol indicating not to overtighten the screw. There are arrows indicating the direction to insert and tighten the screws.
+Image 1: "Step 6 of the assembly instructions shows the attachment of two long metal bars using screws and nuts. The illustration highlights the use of a screwdriver and a wrench to tighten the screws securely. A warning symbol advises against overtightening. The parts and tools required for this step, including screws and a wrench, are depicted in a smaller inset image with quantities labeled as '2x' for each item."
 
-2. The second image (labeled "7") illustrates the assembly of a circular part onto the ends of two parallel bars. The circular part appears to have a locking mechanism, indicated by arrows showing the direction to rotate the part to secure it onto the bars. The image suggests repeating the process on both ends of the bars.
+Image 2: "Step 7 of the assembly instructions depicts the insertion of two circular end caps into the ends of two long metal bars. The image shows the end caps being pressed into place with a hand. Each end cap is labeled with '2x' indicating two pieces are used in this step."
+
+These descriptions provide a clear understanding of the assembly steps for the furniture, including the tools and parts used in each step.

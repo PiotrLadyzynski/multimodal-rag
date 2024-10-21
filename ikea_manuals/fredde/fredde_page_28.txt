@@ -1,7 +1,7 @@
-fredde page 28. The images depict assembly instructions for furniture, specifically a bench with a backrest and armrests.
+fredde page 28. Alternative text for IKEA assembly instruction images for multimodal RAG system:
 
-1. Image 35: Shows the top view of the bench with the backrest and one armrest already attached. There are arrows indicating the placement of two screws on the side where the armrest connects to the backrest. A detailed inset shows a close-up of the screw being inserted into a pre-drilled hole on the armrest.
+Image 1: Step 35 in the assembly instructions shows the upper section of a bunk bed, identified as the Tuffing model. The image depicts the attachment of a safety rail to the top bunk. The rail is being secured to the bed frame with two screws on each side, as indicated by the "2x" label near the screws. An inset close-up shows the alignment of the screw with the hole on the frame for precise assembly.
 
-2. Image 36: Displays the bench from a slightly angled side view, with both the backrest and armrests attached. Similar to the previous image, arrows indicate the placement of two screws on the opposite side, securing the other armrest to the backrest. A detailed inset again shows a close-up of the screw being inserted into the armrest.
+Image 2: Step 36 in the assembly instructions continues with the Tuffing bunk bed. This step illustrates the attachment of a ladder to the lower part of the bunk bed frame. The ladder is being fixed in place with two screws, similarly marked with a "2x" label. A detailed inset shows the screw being inserted into the designated hole on the side of the bed frame.
 
-These images are part of a step-by-step guide, focusing on securing the armrests to the backrest of the bench.
+These descriptions should help the system answer questions about the appearance of the Tuffing bunk bed, the parts included in the assembly, and specific assembly steps such as step 4.

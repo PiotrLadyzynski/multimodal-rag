@@ -1,10 +1,7 @@
-tuffing page 6. The image appears to be an instructional diagram from an assembly manual, likely for furniture or a similar item. It is divided into two main sections labeled "1" and "2".
+tuffing page 6. **Alternative Text for IKEA Assembly Instruction Images**
 
-1. The first section shows two components: a flat, rectangular panel with pre-drilled holes and arrows indicating the direction of insertion for dowels or screws, and a set of long, slender items, possibly dowels or metal rods.
+**Image 1: Step 1**
+The image shows the initial step in assembling a piece of furniture. It features a fabric component with multiple pre-made holes, laid flat. Two arrows point towards the holes, indicating where other parts should be connected. Beside this fabric piece, there are two long, slender metal rods.
 
-2. The second section is more complex and shows the assembly process:
-   - Step 3: A long, cylindrical rod is depicted with an arrow indicating it should be inserted through a hole in a bracket.
-   - Step 4: A detailed view of a bracket attached to a panel, with holes for screws or dowels. The diagram indicates the insertion of a dowel or screw into the bracket.
-   - The main part of this section shows the assembly of a larger structure, possibly a frame, where the panel from the first section is being attached to elongated rods or beams, using the brackets shown in the detailed views.
-
-Each step includes small flame icons, suggesting a warning to keep the item away from heat or to handle a specific part with care due to potential heat during assembly.
+**Image 2: Step 2**
+This image illustrates the second step of assembly. It displays two long metal tubes, each marked with numbers 3 and 4, indicating their sequence in the assembly process. There are also two smaller metal fixtures, each with four holes for screws. The image includes an inset close-up of one of the fixtures being attached to the end of a metal tube, with a hand using a tool to screw it in place. The screws and tool are highlighted, suggesting their use in this step.

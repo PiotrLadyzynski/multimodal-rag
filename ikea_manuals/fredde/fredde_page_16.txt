@@ -1,7 +1,7 @@
-fredde page 16. The images depict two steps in an assembly or installation manual:
+fredde page 16. Alternative text for the provided IKEA assembly instruction images:
 
-1. Image 19 shows a hand using a screwdriver to fasten two screws into a component. The screws are being inserted into designated holes on the component, which appears to be a part of a larger assembly.
+Image 1: "Step 19 of the assembly instructions shows a hand using a screwdriver to secure two screws into a flat, rectangular panel. The screws are being inserted into pre-drilled holes near one edge of the panel."
 
-2. Image 20 illustrates the use of a screwdriver to secure five screws into a flat panel. The screws are evenly spaced and being inserted into pre-drilled holes on the panel.
+Image 2: "Step 20 of the assembly instructions depicts a similar flat, rectangular panel as in the previous step. This panel is shown in a perspective view where a hand with a screwdriver is fastening five screws into the panel. The screws are distributed along the edge of the panel."
 
-Both images use arrows and numbers to indicate the sequence and the number of screws to be used, enhancing clarity for assembly instructions.
+These descriptions are designed to help the multimodal RAG system answer questions about the assembly process, such as the appearance of specific furniture pieces and the components involved in each step.

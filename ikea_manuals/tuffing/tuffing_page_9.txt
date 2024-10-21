@@ -1,7 +1,1 @@
-tuffing page 9. The image is an assembly instruction page for furniture, specifically a rectangular frame that appears to be part of a larger piece, possibly a desk or table. The top part of the image shows the partially assembled frame with a note indicating to turn the structure over. Below, there are detailed steps showing the attachment of various components:
-
-1. A diagram shows a hand screwing in a bolt into a hole on a horizontal bar.
-2. Another diagram depicts the alignment of holes on a joining piece with the ends of two bars.
-3. A third diagram illustrates a hand using a tool to secure a bolt through the aligned holes.
-
-The components and tools are clearly labeled with numbers and arrows indicating the order and direction of assembly. The overall layout is designed to guide the assembler through the process in a clear, step-by-step manner.
+tuffing page 9. Alternative text for the image: "Step 5 of IKEA assembly instructions for a piece of furniture. The image shows a partially assembled frame resembling a bed or a bunk bed. In the top left corner, the main frame is depicted with a wrench tool next to it, indicating tools required for this step. Below, there are detailed illustrations showing the attachment of metal bars to a wooden panel using screws. Each connection point is highlighted and numbered 1, 2, and 3 to guide the assembly process in sequential order. The screws and assembly points are clearly marked to assist in the correct placement and securing of the components."

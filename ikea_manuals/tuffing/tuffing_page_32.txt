@@ -1,11 +1,1 @@
-tuffing page 32. The image is an instruction page from an assembly manual, showing step 31 in the assembly process. It includes a series of diagrams illustrating how to attach parts together:
-
-1. At the top, there is a long, narrow item labeled with a reference number, and a note indicating "2x," suggesting that two of these items are needed.
-2. Below, there is a sequence of four images showing the detailed steps to attach components:
-   - The first image shows a hand positioning a metal bracket onto the edge of a panel.
-   - The second image shows a hand screwing a bolt through the bracket into the panel.
-   - The third image shows the bolt being tightened with a tool.
-   - The fourth image shows a hand pressing down on the bracket to ensure it is securely attached.
-3. The main diagram beneath these steps shows an elongated structure made of several panels connected by the brackets, indicating the assembly progress.
-
-The images are designed to guide the user through the assembly process with visual step-by-step instructions.
+tuffing page 32. Alternative text for the image: "Step 31 of IKEA assembly instructions. The image shows the assembly of a bed frame component. At the top, a long metal rail is depicted with a label indicating '2x' to signify two pieces are needed. Below, a sequence of detailed illustrations demonstrates the attachment of brackets to the rail. The first image in the sequence shows a bracket being aligned with holes on the rail. The subsequent images show a hand using a tool to screw fasteners into the bracket to secure it to the rail. Each step is clearly marked with arrows pointing to the screw locations and the direction of movement for securing the bracket."
